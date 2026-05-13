@@ -71,7 +71,7 @@ La estructura del proyecto fue organizada para mantener una clara separación en
 ## 1. Clonar el repositorio
 
 ```bash
-git clone <REPOSITORY_URL>
+git clone https://github.com/smarchena/blog.git
 ```
 
 ## 2. Instalar dependencias
@@ -103,6 +103,8 @@ o en entorno de desarrollo:
 
 ```bash
 npm run dev
+o
+npx nodemon index.js
 ```
 
 ---
